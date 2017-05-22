@@ -1,11 +1,11 @@
 ---
 title: New in v2
 permalink: "/features/"
-layout: post
-color: yellow
+color: "#ffff00"
 button:
   title: Get started
   url: https://manage.siteleaf.com/signup
+layout: post
 ---
 
 ## Open source superpowers
