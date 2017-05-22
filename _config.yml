@@ -1,5 +1,5 @@
 ---
-title: Siteleaf
+title: Circle with Disney
 timezone: America/New_York
 collections:
   gallery:
@@ -40,7 +40,7 @@ defaults:
   values:
     image: 
     link: 
-url: http://www.siteleaf.com
+url: https://www.meetcircle.com
 description: Built for developers, Loved by everyone. Supports Jekyll, user collaboration,
   publishing to AWS S3, GitHub Pages, FTP, and more.
 permalink: pretty
